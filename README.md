@@ -1,22 +1,21 @@
 # Next.js-Template
 
-- ### :floppy_disk: This is a [Next.js] ready to code template
+## - :floppy_disk: This is a [Next.js] ready to code template
 
-- ### Clone this template:
+### - Clone this template:
 
 ```bash
 git clone https://github.com/kaveh2k/Nextjs-Temp.git
 ```
 
-### :warning: Make sure you already have these extensions on your editor:
+### - :warning: Make sure you already have these extensions on your editor:
 
 - Eslint
 - Prettier
 - Editorconfig
 - Git
-- Storybook
 
-### :paperclip: .storybook folder is default Storybook folder, feel free to delete:
+### - :paperclip: .storybook folder is default Storybook folder, feel free to delete:
 
 # Getting Started
 
@@ -27,7 +26,7 @@ npm install
 
 ```
 
-## 2- Initial eslint:
+## 2- Initialize eslint:
 
 ```bash
 npm init @eslint/config
