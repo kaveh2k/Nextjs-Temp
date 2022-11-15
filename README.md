@@ -1,12 +1,14 @@
 # Next.js-Template
 
-### Clone this template:
+- ### :floppy_disk: This is a [Next.js] ready to code template
+
+- ### Clone this template:
 
 ```bash
 git clone https://github.com/kaveh2k/Nextjs-Temp.git
 ```
 
-### :warning: Make sure you already have these extensions on your editor :
+### :warning: Make sure you already have these extensions on your editor:
 
 - Eslint
 - Prettier
@@ -14,9 +16,7 @@ git clone https://github.com/kaveh2k/Nextjs-Temp.git
 - Git
 - Storybook
 
-### :floppy_disk: This is a ready to use [Next.js] template
-
-### :paperclip: .storybook Folder is sample folder of storybook, feel free to delete it from your project :smile:
+### :paperclip: .storybook folder is default Storybook folder, feel free to delete:
 
 # Getting Started
 
@@ -44,7 +44,14 @@ then add <"prettier"> into .eslintrc.json:
 }
 ```
 
-## 3- Run the development server:
+## 3- Change project name:
+
+```
+=> package.json -> "name":"nextjs-temp"
+=> package-lock.json -> "name":"nextjs-temp"
+```
+
+## 4- Run the development server:
 
 ```bash
 npm run dev
