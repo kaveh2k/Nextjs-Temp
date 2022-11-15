@@ -15,7 +15,7 @@ git clone https://github.com/kaveh2k/Nextjs-Temp.git
 - Editorconfig
 - Git
 
-### - :paperclip: .storybook folder is default Storybook folder, feel free to delete:
+### - :paperclip: .storybook folder is sample Storybook folder, feel free to delete:
 
 # Getting Started
 
