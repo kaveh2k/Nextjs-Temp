@@ -1,29 +1,33 @@
 # Next.js-Template
 
-```bash
+### Clone this template:
 
+```bash
+git clone https://github.com/kaveh2k/Nextjs-Temp.git
 ```
 
-This is a ready to use [Next.js] template
+### :warning: Make sure you already have these extensions on your editor :
+
+- Eslint
+- Prettier
+- Editorconfig
+- Git
+- Storybook
+
+### :floppy_disk: This is a ready to use [Next.js] template
+
+### :paperclip: .storybook Folder is sample folder of storybook, feel free to delete it from your project :smile:
 
 # Getting Started
 
-## :warning: make sure you already have these extensions on your editor :
-
-- eslint
-- prettier
-- editorconfig
-- git
-- storybook
-
-## 1st, install dev dependencies:
+## 1- Install dev dependencies:
 
 ```bash
 npm install
 
 ```
 
-## 2nd, initial eslint:
+## 2- Initial eslint:
 
 ```bash
 npm init @eslint/config
@@ -40,7 +44,7 @@ then add <"prettier"> into .eslintrc.json:
 }
 ```
 
-## 3rd, run the development server:
+## 3- Run the development server:
 
 ```bash
 npm run dev
@@ -55,7 +59,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 # State-management:
 
-there is no state-management in this template
+There is no state-management in this template
 
 I prefer to use zustand as state-management:
 
@@ -71,7 +75,7 @@ npm install zustand
 - Recoil
 - React-query
 - XState
-- And much more (you can find them on [www.npmjs.com](https://www.npmjs.com/) )
+- And much more (you can find more on [www.npmjs.com](https://www.npmjs.com/) )
 
 ---
 
@@ -101,7 +105,7 @@ Use [mui.com](https://mui.com/material-ui/) to find your materials and learn how
 
 8- npx storybook init # For UI development
 
-9- npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react react-test-renderer # Download config system
+9- npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react react-test-renderer # Download and config testing system
 
 10- npm install @apollo/client graphql # Config apollo for graphql which is a data query and manipulation language for APIs
 
