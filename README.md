@@ -1,4 +1,4 @@
-# Next.js-Template
+# Next.js-Template (Outdate- DD NOT USE IT)
 
 ## - :floppy_disk: This is a [Next.js] ready to code template
 
